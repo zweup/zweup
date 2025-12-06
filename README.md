@@ -7,6 +7,7 @@
 
 
 <h1>About Me</h1>
+
 ### 🎓 17 years old | Schoolchild | Future AI Faculty Student
 
 I'm actively preparing to apply to university in a program related to **artificial intelligence** and machine learning. I'm currently taking a risk with programming and mathematics to build a solid foundation for my future profession.
