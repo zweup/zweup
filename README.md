@@ -10,7 +10,7 @@
 
 ### 🎓 17 years old | Schoolchild | Future AI Faculty Student
 
-I'm actively preparing to apply to university in a program related to **artificial intelligence** and machine learning. I'm currently taking a risk with programming and mathematics to build a solid foundation for my future profession.
+* I'm actively preparing to apply to university in a program related to **artificial intelligence** and machine learning. I'm currently taking a risk with programming and mathematics to build a solid foundation for my future profession.
 
 ### 🎧 External Code:
 * **Music:** My favorites are electronic music (Aphex Twin, Sewerslvt) and indie rock. I especially love **Aquakey** and similar atmospheric projects. I'm always happy to share discoveries!
