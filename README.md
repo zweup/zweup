@@ -7,6 +7,6 @@
 
 <p height="50">
   <!-- Music bars move to the beat and are colored based on the track's happiness, danceability and energy! -->
-  <img src="https://github.com/zweup/zweup/blob/54f59ab87a4a185919fadda53263a38af5a8e035/fdfc7f649701fd448d099de539611051-Photoroom.png">
+  <img src="https://github.com/zweup/zweup/blob/c368b102f3b9a5e46eca85b5b18a3cb0c863e179/ca39b0b1b67028e2d7bfcf9af4dedf0c(1).jpg">
   <!-- This is how you'd make the call dynamically <img src="https://readme.andyruwruw.com/api/now-playing"> -->
 </p>
