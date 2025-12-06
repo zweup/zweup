@@ -19,7 +19,7 @@ I'm actively preparing to apply to university in a program related to **artifici
 ### 📫 How to contact me:
 * **Telegram:** [@ququwk]
 * **MAX!!!:** [[link](https://freedownload.moy.su/index.html)]
-* **Email:** [sovo4k@gmail.com]
+* **Email:** [sovo4ek@gmail.com]
 
 
 <p height="50">
