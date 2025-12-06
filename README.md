@@ -7,19 +7,19 @@
 
 
 <h1>About Me</h1>
-**🎓 17 лет | Школьник | Будущий студент Факультета ИИ**
+### 🎓 17 years old | Schoolchild | Future AI Faculty Student
 
-Я активно готовлюсь к поступлению в вуз на направление, связанное с **искусственным интеллектом и машинным обучением**. Сейчас углубляюсь в программирование и математику, чтобы заложить прочный фундамент для будущей профессии.
+I'm actively preparing to apply to university in a program related to **artificial intelligence** and machine learning. I'm currently taking a risk with programming and mathematics to build a solid foundation for my future profession.
 
-### 🎧 Вне кода:
-*   **Музыка:** Мои фавориты — электронная музыка (от ambient до techno) и инди-рок. Особенно люблю **Aquakey** и похожие атмосферные проекты. Всегда рад обменяться находками!
-*   **Игры:** Иногда играю, чтобы расслабиться.
-*   **Книги/Статьи:** Читаю научно-популярную литературу про технологии и будущее.
+### 🎧 External Code:
+* **Music:** My favorites are electronic music (Aphex Twin, Sewerslvt) and indie rock. I especially love **Aquakey** and similar atmospheric projects. I'm always happy to share discoveries!
+* **Games:** Sometimes I play Dota, CS2, and Deadlock.
+* **Books/Articles:** I read whatever my mom or teacher makes me read; my favorite book is the BIBLE.
 
-### 📫 Как со мной связаться:
-*   **Telegram:** [@ququwk]
-*   **MAX!!!:** [[ссылка](https://freedownload.moy.su/index.html)]
-*   **Почта:** [sovo4k@gmail.com]
+### 📫 How to contact me:
+* **Telegram:** [@ququwk]
+* **MAX!!!:** [[link](https://freedownload.moy.su/index.html)]
+* **Email:** [sovo4k@gmail.com]
 
 
 <p height="50">
