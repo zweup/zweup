@@ -16,6 +16,12 @@
 *   **Игры:** Иногда играю, чтобы расслабиться.
 *   **Книги/Статьи:** Читаю научно-популярную литературу про технологии и будущее.
 
+### 📫 Как со мной связаться:
+*   **Telegram:** [@ququwk]
+*   **MAX!!!:** [[ссылка](https://freedownload.moy.su/index.html)]
+*   **Почта:** [sovo4k@gmail.com]
+
+
 <p height="50">
   <!-- Music bars move to the beat and are colored based on the track's happiness, danceability and energy! -->
   <h3><img src="https://github.com/zweup/zweup/blob/c368b102f3b9a5e46eca85b5b18a3cb0c863e179/ca39b0b1b67028e2d7bfcf9af4dedf0c(1).jpg"></h3>
