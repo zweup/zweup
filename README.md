@@ -5,6 +5,8 @@
 
 <img scr='https://github.com/zweup/zweup/blob/da1f56bbb69923a7fbba158a2244c9c02cd6a345/fdfc7f649701fd448d099de539611051-Photoroom.png'  height="32"><img>
 
+
+<h1>About Me</h1>
 <p height="50">
   <!-- Music bars move to the beat and are colored based on the track's happiness, danceability and energy! -->
   <img src="https://github.com/zweup/zweup/blob/c368b102f3b9a5e46eca85b5b18a3cb0c863e179/ca39b0b1b67028e2d7bfcf9af4dedf0c(1).jpg">
