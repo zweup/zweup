@@ -9,20 +9,10 @@
 <h1>About Me</h1>
 <p height="50">
   <!-- Music bars move to the beat and are colored based on the track's happiness, danceability and energy! -->
-  <img src="https://github.com/zweup/zweup/blob/c368b102f3b9a5e46eca85b5b18a3cb0c863e179/ca39b0b1b67028e2d7bfcf9af4dedf0c(1).jpg">
+  <h3><img src="https://github.com/zweup/zweup/blob/c368b102f3b9a5e46eca85b5b18a3cb0c863e179/ca39b0b1b67028e2d7bfcf9af4dedf0c(1).jpg">
+  **🎓 17 лет | Школьник | Будущий студент Факультета ИИ**
+
+Я активно готовлюсь к поступлению в вуз на направление, связанное с **искусственным интеллектом и машинным обучением**. Сейчас углубляюсь в программирование и математику, чтобы заложить прочный фундамент для будущей профессии.
+</h3>
   <!-- This is how you'd make the call dynamically <img src="https://readme.andyruwruw.com/api/now-playing"> -->
 </p>
-<style>
-.image-container {
-  overflow: hidden; /* Чтобы сбросить обтекание для элементов ниже */
-}
-.image-container img {
-  float: left; /* Картинка "плавает" влево */
-  margin-right: 15px; /* Отступ справа */
-}
-</style>
-
-<div class="image-container">
-  <img src="image.jpg" alt="Описание картинки">
-  <p>Этот текст будет обтекать картинку слева.</p>
-</div>
