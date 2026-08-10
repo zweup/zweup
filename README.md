@@ -8,9 +8,9 @@
 
 <h1>About Me</h1>
 
-### 🎓 17 years old | Schoolchild | Future AI Faculty Student
+### 🎓 18 years old | Student | Major: Applied Data Analysis
 
-* I'm actively preparing to apply to university in a program related to **artificial intelligence** and machine learning. I'm currently taking a risk with programming and mathematics to build a solid foundation for my future profession.
+* I enrolled in the local state university on a tuition-free scholarship, and I hope to meet many people with similar interests. I am currently studying programming and mathematics in depth to build a solid foundation for my future career.
 
 ### 🎧 External Code:
 * **Music:** My favorites are electronic music (Aphex Twin, Sewerslvt) and indie rock. I especially love **Aquakey** and similar atmospheric projects. I'm always happy to share discoveries!
