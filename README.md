@@ -19,9 +19,9 @@
 
 ### 📫 How to contact me:
 * **Leetcode:** [[link](https://leetcode.com/u/zweup/)]
-* **Telegram:** [@ququwk]
+* **Telegram:** [@unndcom]
 * **MAX!!!:** [[link](https://freedownload.moy.su/index.html)]
-* **Email:** [sovo4ek@gmail.com]
+* **Email:** [@gmail.com]
 
 
 <p height="50">
