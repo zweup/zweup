@@ -21,7 +21,7 @@
 * **Leetcode:** [[link](https://leetcode.com/u/zweup/)]
 * **Telegram:** [@unndcom]
 * **MAX!!!:** [[link](https://freedownload.moy.su/index.html)]
-* **Email:** [@gmail.com]
+* **Email:** [elmoxxdd@outlook.com]
 
 
 <p height="50">
